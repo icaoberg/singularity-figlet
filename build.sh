@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=figlet.simg
+IMAGE=singularity-figlet.simg
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
